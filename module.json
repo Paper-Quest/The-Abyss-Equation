@@ -35,5 +35,8 @@
       "system": "dnd5e",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/Paper-Quest/The-Abyss-Equation",
+  "manifest": "https://github.com/Paper-Quest/The-Abyss-Equation/blob/main/module.json",
+  "download": "https://github.com/Paper-Quest/The-Abyss-Equation/blob/main/paper-quest-the-abyss-equation.zip"
 }
